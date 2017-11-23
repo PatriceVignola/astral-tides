@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="118">
+	<RootPaths>
+		<ProjectRoot>E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\</ProjectRoot>
+		<SourceFilesRoot>E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>E:\astral-tides\Content\WwiseAudio\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\GeneratedSoundBanks\Windows\</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="12376345" Language="SFX">
+			<ShortName>AT_MUS Drone_03.wav</ShortName>
+			<Path>SFX\AT_MUS Drone_03_9E69E797.wem</Path>
+		</File>
+		<File Id="41196620" Language="SFX">
+			<ShortName>AT_MUS_FLUTE_06.wav</ShortName>
+			<Path>SFX\AT_MUS_FLUTE_06_9E69E797.wem</Path>
+		</File>
+		<File Id="47708315" Language="SFX">
+			<ShortName>AT_MUS_PNO_20.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_20_9E69E797.wem</Path>
+		</File>
+		<File Id="49032451" Language="SFX">
+			<ShortName>AT_MUS_FLUTE_09.wav</ShortName>
+			<Path>SFX\AT_MUS_FLUTE_09_9E69E797.wem</Path>
+		</File>
+		<File Id="88257690" Language="SFX">
+			<ShortName>AT_MUS_CELLO_07.wav</ShortName>
+			<Path>SFX\AT_MUS_CELLO_07_9E69E797.wem</Path>
+		</File>
+		<File Id="88288146" Language="SFX">
+			<ShortName>AT_MUS_PNO_09.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_09_9E69E797.wem</Path>
+		</File>
+		<File Id="101004235" Language="SFX">
+			<ShortName>AT_MUS_PNO_06.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_06_9E69E797.wem</Path>
+		</File>
+		<File Id="119162994" Language="SFX">
+			<ShortName>AT_MUS_FLUTE_05.wav</ShortName>
+			<Path>SFX\AT_MUS_FLUTE_05_9E69E797.wem</Path>
+		</File>
+		<File Id="122902369" Language="SFX">
+			<ShortName>AT_MUS_PNO_17.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_17_9E69E797.wem</Path>
+		</File>
+		<File Id="132790363" Language="SFX">
+			<ShortName>AT_MUS_CELLO_11.wav</ShortName>
+			<Path>SFX\AT_MUS_CELLO_11_9E69E797.wem</Path>
+		</File>
+		<File Id="140677533" Language="SFX">
+			<ShortName>AT_MUS_FLUTE_04.wav</ShortName>
+			<Path>SFX\AT_MUS_FLUTE_04_9E69E797.wem</Path>
+		</File>
+		<File Id="143535611" Language="SFX">
+			<ShortName>AT_MUS_PNO_21.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_21_9E69E797.wem</Path>
+		</File>
+		<File Id="161543320" Language="SFX">
+			<ShortName>AT_MUS_CELLO_09.wav</ShortName>
+			<Path>SFX\AT_MUS_CELLO_09_9E69E797.wem</Path>
+		</File>
+		<File Id="242788481" Language="SFX">
+			<ShortName>AT_MUS_PNO_04.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_04_9E69E797.wem</Path>
+		</File>
+		<File Id="299050794" Language="SFX">
+			<ShortName>AT_MUS_PNO_08.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_08_9E69E797.wem</Path>
+		</File>
+		<File Id="308810167" Language="SFX">
+			<ShortName>AT_MUS_PNO_14.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_14_9E69E797.wem</Path>
+		</File>
+		<File Id="313353611" Language="SFX">
+			<ShortName>AT_MUS_PNO_03.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_03_9E69E797.wem</Path>
+		</File>
+		<File Id="357209784" Language="SFX">
+			<ShortName>AT_MUS_CELLO_06.wav</ShortName>
+			<Path>SFX\AT_MUS_CELLO_06_9E69E797.wem</Path>
+		</File>
+		<File Id="390532734" Language="SFX">
+			<ShortName>AT_MUS_CELLO_01.wav</ShortName>
+			<Path>SFX\AT_MUS_CELLO_01_9E69E797.wem</Path>
+		</File>
+		<File Id="435667051" Language="SFX">
+			<ShortName>AT_MUS_PNO_05.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_05_9E69E797.wem</Path>
+		</File>
+		<File Id="439653746" Language="SFX">
+			<ShortName>AT_MUS_FLUTE_11.wav</ShortName>
+			<Path>SFX\AT_MUS_FLUTE_11_9E69E797.wem</Path>
+		</File>
+		<File Id="458966049" Language="SFX">
+			<ShortName>AT_MUS_CELLO_10.wav</ShortName>
+			<Path>SFX\AT_MUS_CELLO_10_9E69E797.wem</Path>
+		</File>
+		<File Id="498547570" Language="SFX">
+			<ShortName>AT_MUS_CELLO_04.wav</ShortName>
+			<Path>SFX\AT_MUS_CELLO_04_9E69E797.wem</Path>
+		</File>
+		<File Id="523331052" Language="SFX">
+			<ShortName>AT_MUS Drone_01.wav</ShortName>
+			<Path>SFX\AT_MUS Drone_01_9E69E797.wem</Path>
+		</File>
+		<File Id="525937448" Language="SFX">
+			<ShortName>AT_MUS_PNO_13.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_13_9E69E797.wem</Path>
+		</File>
+		<File Id="531838552" Language="SFX">
+			<ShortName>AT_MUS_PNO_23.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_23_9E69E797.wem</Path>
+		</File>
+		<File Id="538201852" Language="SFX">
+			<ShortName>AT_MUS_FLUTE_12.wav</ShortName>
+			<Path>SFX\AT_MUS_FLUTE_12_9E69E797.wem</Path>
+		</File>
+		<File Id="636512740" Language="SFX">
+			<ShortName>AT_MUS_PNO_15.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_15_9E69E797.wem</Path>
+		</File>
+		<File Id="683414439" Language="SFX">
+			<ShortName>AT_MUS_PNO_18.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_18_9E69E797.wem</Path>
+		</File>
+		<File Id="686023784" Language="SFX">
+			<ShortName>AT_MUS_PNO_12.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_12_9E69E797.wem</Path>
+		</File>
+		<File Id="690070821" Language="SFX">
+			<ShortName>AT_MUS_PNO_07.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_07_9E69E797.wem</Path>
+		</File>
+		<File Id="706869590" Language="SFX">
+			<ShortName>AT_MUS_FLUTE_08.wav</ShortName>
+			<Path>SFX\AT_MUS_FLUTE_08_9E69E797.wem</Path>
+		</File>
+		<File Id="707747938" Language="SFX">
+			<ShortName>AT_MUS_FLUTE_03.wav</ShortName>
+			<Path>SFX\AT_MUS_FLUTE_03_9E69E797.wem</Path>
+		</File>
+		<File Id="746941086" Language="SFX">
+			<ShortName>AT_MUS_FLUTE_07.wav</ShortName>
+			<Path>SFX\AT_MUS_FLUTE_07_9E69E797.wem</Path>
+		</File>
+		<File Id="766983183" Language="SFX">
+			<ShortName>AT_MUS_FLUTE_01.wav</ShortName>
+			<Path>SFX\AT_MUS_FLUTE_01_9E69E797.wem</Path>
+		</File>
+		<File Id="791048753" Language="SFX">
+			<ShortName>AT_MUS_PNO_11.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_11_9E69E797.wem</Path>
+		</File>
+		<File Id="840612955" Language="SFX">
+			<ShortName>AT_MUS_CELLO_05.wav</ShortName>
+			<Path>SFX\AT_MUS_CELLO_05_9E69E797.wem</Path>
+		</File>
+		<File Id="849571765" Language="SFX">
+			<ShortName>AT_MUS_PNO_02.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_02_9E69E797.wem</Path>
+		</File>
+		<File Id="869420226" Language="SFX">
+			<ShortName>AT_MUS_CELLO_12.wav</ShortName>
+			<Path>SFX\AT_MUS_CELLO_12_9E69E797.wem</Path>
+		</File>
+		<File Id="871702326" Language="SFX">
+			<ShortName>AT_MUS_PNO_01.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_01_9E69E797.wem</Path>
+		</File>
+		<File Id="926211739" Language="SFX">
+			<ShortName>AT_MUS_PNO_19.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_19_9E69E797.wem</Path>
+		</File>
+		<File Id="956138317" Language="SFX">
+			<ShortName>AT_MUS_PNO_10.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_10_9E69E797.wem</Path>
+		</File>
+		<File Id="958036988" Language="SFX">
+			<ShortName>AT_MUS_PNO_22.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_22_9E69E797.wem</Path>
+		</File>
+		<File Id="966836533" Language="SFX">
+			<ShortName>AT_MUS_CELLO_03.wav</ShortName>
+			<Path>SFX\AT_MUS_CELLO_03_9E69E797.wem</Path>
+		</File>
+		<File Id="988957026" Language="SFX">
+			<ShortName>AT_MUS_FLUTE_10.wav</ShortName>
+			<Path>SFX\AT_MUS_FLUTE_10_9E69E797.wem</Path>
+		</File>
+		<File Id="1011846003" Language="SFX">
+			<ShortName>AT_MUS_FLUTE_02.wav</ShortName>
+			<Path>SFX\AT_MUS_FLUTE_02_9E69E797.wem</Path>
+		</File>
+		<File Id="1045601053" Language="SFX">
+			<ShortName>AT_MUS_CELLO_08.wav</ShortName>
+			<Path>SFX\AT_MUS_CELLO_08_9E69E797.wem</Path>
+		</File>
+		<File Id="1056446368" Language="SFX">
+			<ShortName>AT_MUS_CELLO_02.wav</ShortName>
+			<Path>SFX\AT_MUS_CELLO_02_9E69E797.wem</Path>
+		</File>
+		<File Id="1067326600" Language="SFX">
+			<ShortName>AT_MUS_PNO_16.wav</ShortName>
+			<Path>SFX\AT_MUS_PNO_16_9E69E797.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1148408192" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\AT_Soundbank</ObjectPath>
+			<ShortName>AT_Soundbank</ShortName>
+			<Path>AT_Soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="2299509945" Name="Anim_Door" ObjectPath="\Events\Default Work Unit\Anim_Door"/>
+				<Event Id="3288623550" Name="Anim_StarFalling" ObjectPath="\Events\Default Work Unit\Anim_StarFalling"/>
+				<Event Id="134494056" Name="Col_Star" ObjectPath="\Events\Default Work Unit\Col_Star"/>
+				<Event Id="4058101365" Name="Gamestart" ObjectPath="\Events\Default Work Unit\Gamestart"/>
+				<Event Id="2254191670" Name="Icecube_Drag" ObjectPath="\Events\Default Work Unit\Icecube_Drag"/>
+				<Event Id="1716366232" Name="Icecube_Stop" ObjectPath="\Events\Default Work Unit\Icecube_Stop"/>
+				<Event Id="2134996504" Name="Icecube_WaterSplash" ObjectPath="\Events\Default Work Unit\Icecube_WaterSplash"/>
+				<Event Id="2607556080" Name="Menu" ObjectPath="\Events\Default Work Unit\Menu"/>
+				<Event Id="2024222415" Name="UI_back" ObjectPath="\Events\Default Work Unit\UI_back"/>
+				<Event Id="216067002" Name="UI_confirm" ObjectPath="\Events\Default Work Unit\UI_confirm"/>
+				<Event Id="2118900976" Name="UI_hover" ObjectPath="\Events\Default Work Unit\UI_hover"/>
+				<Event Id="1733557012" Name="UI_navigation_left" ObjectPath="\Events\Default Work Unit\UI_navigation_left"/>
+				<Event Id="1060920883" Name="UI_navigation_right" ObjectPath="\Events\Default Work Unit\UI_navigation_right"/>
+				<Event Id="2467171692" Name="UI_startGame" ObjectPath="\Events\Default Work Unit\UI_startGame"/>
+				<Event Id="967957330" Name="WaterDown" ObjectPath="\Events\Default Work Unit\WaterDown"/>
+				<Event Id="934409201" Name="WaterDown_Stop" ObjectPath="\Events\Default Work Unit\WaterDown_Stop"/>
+				<Event Id="2704489297" Name="WaterUp" ObjectPath="\Events\Default Work Unit\WaterUp"/>
+				<Event Id="408207284" Name="WaterUp_Stop" ObjectPath="\Events\Default Work Unit\WaterUp_Stop"/>
+				<Event Id="113873369" Name="Wolf_FS" ObjectPath="\Events\Default Work Unit\Wolf_FS"/>
+				<Event Id="34426302" Name="Wolf_idle" ObjectPath="\Events\Default Work Unit\Wolf_idle"/>
+				<Event Id="2399044778" Name="Wolf_Shake" ObjectPath="\Events\Default Work Unit\Wolf_Shake"/>
+				<Event Id="3685525200" Name="Wolf_WaterSplash" ObjectPath="\Events\Default Work Unit\Wolf_WaterSplash"/>
+			</IncludedEvents>
+			<ReferencedStreamedFiles>
+				<File Id="12376345"/>
+				<File Id="41196620"/>
+				<File Id="47708315"/>
+				<File Id="49032451"/>
+				<File Id="88257690"/>
+				<File Id="88288146"/>
+				<File Id="101004235"/>
+				<File Id="119162994"/>
+				<File Id="122902369"/>
+				<File Id="132790363"/>
+				<File Id="140677533"/>
+				<File Id="143535611"/>
+				<File Id="161543320"/>
+				<File Id="242788481"/>
+				<File Id="299050794"/>
+				<File Id="308810167"/>
+				<File Id="313353611"/>
+				<File Id="357209784"/>
+				<File Id="390532734"/>
+				<File Id="435667051"/>
+				<File Id="439653746"/>
+				<File Id="458966049"/>
+				<File Id="498547570"/>
+				<File Id="523331052"/>
+				<File Id="525937448"/>
+				<File Id="531838552"/>
+				<File Id="538201852"/>
+				<File Id="636512740"/>
+				<File Id="683414439"/>
+				<File Id="686023784"/>
+				<File Id="690070821"/>
+				<File Id="706869590"/>
+				<File Id="707747938"/>
+				<File Id="746941086"/>
+				<File Id="766983183"/>
+				<File Id="791048753"/>
+				<File Id="840612955"/>
+				<File Id="849571765"/>
+				<File Id="869420226"/>
+				<File Id="871702326"/>
+				<File Id="926211739"/>
+				<File Id="956138317"/>
+				<File Id="958036988"/>
+				<File Id="966836533"/>
+				<File Id="988957026"/>
+				<File Id="1011846003"/>
+				<File Id="1045601053"/>
+				<File Id="1056446368"/>
+				<File Id="1067326600"/>
+			</ReferencedStreamedFiles>
+			<IncludedMemoryFiles>
+				<File Id="2628197" Language="SFX">
+					<ShortName>SFX_col_star_05.wav</ShortName>
+					<Path>SFX\SFX_col_star_05_9E69E797.wem</Path>
+				</File>
+				<File Id="35905340" Language="SFX">
+					<ShortName>SFX_Orc_Scream_13.wav</ShortName>
+					<Path>SFX\SFX_Orc_Scream_13_9E69E797.wem</Path>
+				</File>
+				<File Id="82137336" Language="SFX">
+					<ShortName>SFX_Orc_Scream_06.wav</ShortName>
+					<Path>SFX\SFX_Orc_Scream_06_9E69E797.wem</Path>
+				</File>
+				<File Id="93477040" Language="SFX">
+					<ShortName>SFX_Orc_Scream_07.wav</ShortName>
+					<Path>SFX\SFX_Orc_Scream_07_9E69E797.wem</Path>
+				</File>
+				<File Id="217075686" Language="SFX">
+					<ShortName>SFX_Orc_Scream_08.wav</ShortName>
+					<Path>SFX\SFX_Orc_Scream_08_9E69E797.wem</Path>
+				</File>
+				<File Id="243114612" Language="SFX">
+					<ShortName>AMB_AstralTides_Water.wav</ShortName>
+					<Path>SFX\AMB_AstralTides_Water_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="244439242" Language="SFX">
+					<ShortName>UI_navigation_right.wav</ShortName>
+					<Path>SFX\UI_navigation_right_9E69E797.wem</Path>
+				</File>
+				<File Id="244653028" Language="SFX">
+					<ShortName>SFX_icecube_drag_End.wav</ShortName>
+					<Path>SFX\SFX_icecube_drag_End_9E69E797.wem</Path>
+				</File>
+				<File Id="249492280" Language="SFX">
+					<ShortName>SFX_Wolf_waterSplash_01.wav</ShortName>
+					<Path>SFX\SFX_Wolf_waterSplash_01_9E69E797.wem</Path>
+				</File>
+				<File Id="264001346" Language="SFX">
+					<ShortName>SFX_WaterDown_End.wav</ShortName>
+					<Path>SFX\SFX_WaterDown_End_9E69E797.wem</Path>
+				</File>
+				<File Id="274548684" Language="SFX">
+					<ShortName>SFX_Orc_Scream_02.wav</ShortName>
+					<Path>SFX\SFX_Orc_Scream_02_9E69E797.wem</Path>
+				</File>
+				<File Id="276533524" Language="SFX">
+					<ShortName>SFX_col_star_02.wav</ShortName>
+					<Path>SFX\SFX_col_star_02_9E69E797.wem</Path>
+				</File>
+				<File Id="289832416" Language="SFX">
+					<ShortName>SFX_Wolf_waterSplash_03.wav</ShortName>
+					<Path>SFX\SFX_Wolf_waterSplash_03_9E69E797.wem</Path>
+				</File>
+				<File Id="308584896" Language="SFX">
+					<ShortName>SFX_icecube_waterMoving_Loop.wav</ShortName>
+					<Path>SFX\SFX_icecube_waterMoving_Loop_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="322646163" Language="SFX">
+					<ShortName>UI_Hover.wav</ShortName>
+					<Path>SFX\UI_Hover_9E69E797.wem</Path>
+				</File>
+				<File Id="381616022" Language="SFX">
+					<ShortName>SFX_Orc_Scream_12.wav</ShortName>
+					<Path>SFX\SFX_Orc_Scream_12_9E69E797.wem</Path>
+				</File>
+				<File Id="390715474" Language="SFX">
+					<ShortName>SFX_Wolf_Howl_03.wav</ShortName>
+					<Path>SFX\SFX_Wolf_Howl_03_9E69E797.wem</Path>
+				</File>
+				<File Id="403868053" Language="SFX">
+					<ShortName>SFX_Wolf_Howl_02.wav</ShortName>
+					<Path>SFX\SFX_Wolf_Howl_02_9E69E797.wem</Path>
+				</File>
+				<File Id="460202824" Language="SFX">
+					<ShortName>SFX_FS_snow_01.wav</ShortName>
+					<Path>SFX\SFX_FS_snow_01_9E69E797.wem</Path>
+				</File>
+				<File Id="461369494" Language="SFX">
+					<ShortName>SFX_FS_snow_04.wav</ShortName>
+					<Path>SFX\SFX_FS_snow_04_9E69E797.wem</Path>
+				</File>
+				<File Id="476574211" Language="SFX">
+					<ShortName>SFX_WaterDown_Start.wav</ShortName>
+					<Path>SFX\SFX_WaterDown_Start_9E69E797.wem</Path>
+				</File>
+				<File Id="504097650" Language="SFX">
+					<ShortName>SFX_Orc_Scream_01.wav</ShortName>
+					<Path>SFX\SFX_Orc_Scream_01_9E69E797.wem</Path>
+				</File>
+				<File Id="569199062" Language="SFX">
+					<ShortName>UI_navigation_left.wav</ShortName>
+					<Path>SFX\UI_navigation_left_9E69E797.wem</Path>
+				</File>
+				<File Id="594557104" Language="SFX">
+					<ShortName>SFX_Orc_Scream_10.wav</ShortName>
+					<Path>SFX\SFX_Orc_Scream_10_9E69E797.wem</Path>
+				</File>
+				<File Id="626746985" Language="SFX">
+					<ShortName>VOX_Howard_HAPPY_03.wav</ShortName>
+					<Path>SFX\VOX_Howard_HAPPY_03_9E69E797.wem</Path>
+				</File>
+				<File Id="647680215" Language="SFX">
+					<ShortName>SFX_icecube_waterSplash_01.wav</ShortName>
+					<Path>SFX\SFX_icecube_waterSplash_01_9E69E797.wem</Path>
+				</File>
+				<File Id="653342313" Language="SFX">
+					<ShortName>UI_Confirm.wav</ShortName>
+					<Path>SFX\UI_Confirm_9E69E797.wem</Path>
+				</File>
+				<File Id="656556936" Language="SFX">
+					<ShortName>SFX_WaterUp_Start.wav</ShortName>
+					<Path>SFX\SFX_WaterUp_Start_9E69E797.wem</Path>
+				</File>
+				<File Id="680994462" Language="SFX">
+					<ShortName>SFX_Orc_Scream_11.wav</ShortName>
+					<Path>SFX\SFX_Orc_Scream_11_9E69E797.wem</Path>
+				</File>
+				<File Id="683507940" Language="SFX">
+					<ShortName>SFX_icecube_waterSplash_03.wav</ShortName>
+					<Path>SFX\SFX_icecube_waterSplash_03_9E69E797.wem</Path>
+				</File>
+				<File Id="717458162" Language="SFX">
+					<ShortName>SFX_Wolf_waterSplash_02.wav</ShortName>
+					<Path>SFX\SFX_Wolf_waterSplash_02_9E69E797.wem</Path>
+				</File>
+				<File Id="741947502" Language="SFX">
+					<ShortName>SFX_Orc_Scream_09.wav</ShortName>
+					<Path>SFX\SFX_Orc_Scream_09_9E69E797.wem</Path>
+				</File>
+				<File Id="742745702" Language="SFX">
+					<ShortName>UI_StartGame.wav</ShortName>
+					<Path>SFX\UI_StartGame_9E69E797.wem</Path>
+				</File>
+				<File Id="773012373" Language="SFX">
+					<ShortName>SFX_Icecube_drag_Start.wav</ShortName>
+					<Path>SFX\SFX_Icecube_drag_Start_9E69E797.wem</Path>
+				</File>
+				<File Id="779985896" Language="SFX">
+					<ShortName>SFX_FS_snow_05.wav</ShortName>
+					<Path>SFX\SFX_FS_snow_05_9E69E797.wem</Path>
+				</File>
+				<File Id="780398522" Language="SFX">
+					<ShortName>SFX_FS_snow_03.wav</ShortName>
+					<Path>SFX\SFX_FS_snow_03_9E69E797.wem</Path>
+				</File>
+				<File Id="781963727" Language="SFX">
+					<ShortName>SFX_Wolf_Howl_04.wav</ShortName>
+					<Path>SFX\SFX_Wolf_Howl_04_9E69E797.wem</Path>
+				</File>
+				<File Id="785837206" Language="SFX">
+					<ShortName>SFX_WaterDown_Loop.wav</ShortName>
+					<Path>SFX\SFX_WaterDown_Loop_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="787018239" Language="SFX">
+					<ShortName>SFX_FS_snow_07.wav</ShortName>
+					<Path>SFX\SFX_FS_snow_07_9E69E797.wem</Path>
+				</File>
+				<File Id="805089218" Language="SFX">
+					<ShortName>UI_Back.wav</ShortName>
+					<Path>SFX\UI_Back_9E69E797.wem</Path>
+				</File>
+				<File Id="805700279" Language="SFX">
+					<ShortName>OLD_SFX_animatic_door.wav</ShortName>
+					<Path>SFX\OLD_SFX_animatic_door_9E69E797.wem</Path>
+				</File>
+				<File Id="808991957" Language="SFX">
+					<ShortName>SFX_FS_snow_06.wav</ShortName>
+					<Path>SFX\SFX_FS_snow_06_9E69E797.wem</Path>
+				</File>
+				<File Id="838581732" Language="SFX">
+					<ShortName>SFX_Icecube_drag_Loop.wav</ShortName>
+					<Path>SFX\SFX_Icecube_drag_Loop_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="887356396" Language="SFX">
+					<ShortName>SFX_Orc_Scream_04.wav</ShortName>
+					<Path>SFX\SFX_Orc_Scream_04_9E69E797.wem</Path>
+				</File>
+				<File Id="897197282" Language="SFX">
+					<ShortName>SFX_Orc_Scream_05.wav</ShortName>
+					<Path>SFX\SFX_Orc_Scream_05_9E69E797.wem</Path>
+				</File>
+				<File Id="901390481" Language="SFX">
+					<ShortName>SFX_Orc_Scream_03.wav</ShortName>
+					<Path>SFX\SFX_Orc_Scream_03_9E69E797.wem</Path>
+				</File>
+				<File Id="904487434" Language="SFX">
+					<ShortName>SFX_WolfShake.wav</ShortName>
+					<Path>SFX\SFX_WolfShake_9E69E797.wem</Path>
+				</File>
+				<File Id="915944086" Language="SFX">
+					<ShortName>SFX_WaterUp_Loop.wav</ShortName>
+					<Path>SFX\SFX_WaterUp_Loop_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="919278252" Language="SFX">
+					<ShortName>SFX_icecube_waterSplash_02.wav</ShortName>
+					<Path>SFX\SFX_icecube_waterSplash_02_9E69E797.wem</Path>
+				</File>
+				<File Id="980503553" Language="SFX">
+					<ShortName>SFX_col_star_03.wav</ShortName>
+					<Path>SFX\SFX_col_star_03_9E69E797.wem</Path>
+				</File>
+				<File Id="988084933" Language="SFX">
+					<ShortName>SFX_col_star_01.wav</ShortName>
+					<Path>SFX\SFX_col_star_01_9E69E797.wem</Path>
+				</File>
+				<File Id="993413606" Language="SFX">
+					<ShortName>SFX_FS_snow_02.wav</ShortName>
+					<Path>SFX\SFX_FS_snow_02_9E69E797.wem</Path>
+				</File>
+				<File Id="1008500878" Language="SFX">
+					<ShortName>SFX_Wolf_Howl_01.wav</ShortName>
+					<Path>SFX\SFX_Wolf_Howl_01_9E69E797.wem</Path>
+				</File>
+				<File Id="1040257785" Language="SFX">
+					<ShortName>SFX_WaterUp_End.wav</ShortName>
+					<Path>SFX\SFX_WaterUp_End_9E69E797.wem</Path>
+				</File>
+				<File Id="1056083265" Language="SFX">
+					<ShortName>AMB_AstralTides_Wind.wav</ShortName>
+					<Path>SFX\AMB_AstralTides_Wind_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="1068442164" Language="SFX">
+					<ShortName>SFX_col_star_04.wav</ShortName>
+					<Path>SFX\SFX_col_star_04_9E69E797.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

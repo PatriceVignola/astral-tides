@@ -1,0 +1,155 @@
+Event	ID	Name			Wwise Object Path	Notes
+	34426302	Wolf_idle			\Default Work Unit\Wolf_idle	
+	113873369	Wolf_FS			\Default Work Unit\Wolf_FS	
+	134494056	Col_Star			\Default Work Unit\Col_Star	
+	216067002	UI_confirm			\Default Work Unit\UI_confirm	
+	408207284	WaterUp_Stop			\Default Work Unit\WaterUp_Stop	
+	934409201	WaterDown_Stop			\Default Work Unit\WaterDown_Stop	
+	967957330	WaterDown			\Default Work Unit\WaterDown	
+	1060920883	UI_navigation_right			\Default Work Unit\UI_navigation_right	
+	1716366232	Icecube_Stop			\Default Work Unit\Icecube_Stop	
+	1733557012	UI_navigation_left			\Default Work Unit\UI_navigation_left	
+	2024222415	UI_back			\Default Work Unit\UI_back	
+	2118900976	UI_hover			\Default Work Unit\UI_hover	
+	2134996504	Icecube_WaterSplash			\Default Work Unit\Icecube_WaterSplash	
+	2254191670	Icecube_Drag			\Default Work Unit\Icecube_Drag	
+	2299509945	Anim_Door			\Default Work Unit\Anim_Door	
+	2399044778	Wolf_Shake			\Default Work Unit\Wolf_Shake	
+	2467171692	UI_startGame			\Default Work Unit\UI_startGame	
+	2607556080	Menu			\Default Work Unit\Menu	
+	2704489297	WaterUp			\Default Work Unit\WaterUp	
+	3288623550	Anim_StarFalling			\Default Work Unit\Anim_StarFalling	
+	3685525200	Wolf_WaterSplash			\Default Work Unit\Wolf_WaterSplash	
+	4058101365	Gamestart			\Default Work Unit\Gamestart	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2671872788	FS_Surface			\Default Work Unit\FS_Surface	
+
+Switch	ID	Name	Switch Group			Notes
+	344481046	Ice	FS_Surface			
+	787898836	Snow	FS_Surface			
+	3496311595	Rocksolid	FS_Surface			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	332123350	IcecubeMoving_Attenuation			\Default Work Unit\IcecubeMoving_Attenuation	
+	584648196	Game_Altitude			\Default Work Unit\Game_Altitude	
+	4130301208	Orc_Attenuation			\Default Work Unit\Orc_Attenuation	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	191918578	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\FLUTE\Silence\Wwise Silence	
+	241505402	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\Cello\Silence_02\Wwise Silence	
+	309199886	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\Cello\Silence\Wwise Silence	
+	428156716	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\Wolf_idle\Wwise Silence	
+	482759302	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\FLUTE\Silence_01\Wwise Silence	
+	860774095	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\Cello\Silence_01\Wwise Silence	
+	1069410958	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\FLUTE\Silence_02\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	2628197	SFX_col_star_05	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_col_star_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Col_Star\Col_star\SFX_col_star_05		1175124
+	35905340	SFX_Orc_Scream_13	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Orc_Scream_13_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Orc\Orc_Scream\SFX_Orc_Scream_13		705444
+	82137336	SFX_Orc_Scream_06	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Orc_Scream_06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Orc\Orc_Scream\SFX_Orc_Scream_06		476516
+	93477040	SFX_Orc_Scream_07	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Orc_Scream_07_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Orc\Orc_Scream\SFX_Orc_Scream_07		442644
+	217075686	SFX_Orc_Scream_08	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Orc_Scream_08_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Orc\Orc_Scream\SFX_Orc_Scream_08		477964
+	243114612	Orc_Move	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AMB_AstralTides_Water_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Orc\Orc_Move		5510740
+	244439242	UI_navigation_right	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\UI_navigation_right_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\UI\UI_navigation_right		529264
+	244653028	SFX_icecube_drag_End	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_icecube_drag_End_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Icecube\Icecube_Drag\SFX_icecube_drag_End		262476
+	249492280	SFX_Wolf_waterSplash_01	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Wolf_waterSplash_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\Wolf_watersplash\SFX_Wolf_waterSplash_01		264160
+	264001346	SFX_WaterDown_End	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_WaterDown_End_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Water\Water_down\SFX_WaterDown_End		437420
+	274548684	SFX_Orc_Scream_02	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Orc_Scream_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Orc\Orc_Scream\SFX_Orc_Scream_02		531232
+	276533524	SFX_col_star_02	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_col_star_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Col_Star\Col_star\SFX_col_star_02		1146328
+	289832416	SFX_Wolf_waterSplash_03	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Wolf_waterSplash_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\Wolf_watersplash\SFX_Wolf_waterSplash_03		308744
+	308584896	SFX_icecube_waterMoving_Loop	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_icecube_waterMoving_Loop_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Icecube\SFX_icecube_waterMoving_Loop		3149024
+	322646163	UI_Hover	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\UI_Hover_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\UI\UI_Hover		162316
+	381616022	SFX_Orc_Scream_12	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Orc_Scream_12_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Orc\Orc_Scream\SFX_Orc_Scream_12		718896
+	390715474	SFX_Wolf_Howl_03	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Wolf_Howl_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\Wolf_howl\SFX_Wolf_Howl_03		1478928
+	403868053	SFX_Wolf_Howl_02	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Wolf_Howl_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\Wolf_howl\SFX_Wolf_Howl_02		1124328
+	460202824	SFX_FS_snow_01	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_FS_snow_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\FS\FS_Snow\SFX_FS_snow_01		19766
+	461369494	SFX_FS_snow_04	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_FS_snow_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\FS\FS_Snow\SFX_FS_snow_04		22510
+	476574211	SFX_WaterDown_Start	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_WaterDown_Start_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Water\Water_down\Water_Down\SFX_WaterDown_Start		565840
+	504097650	SFX_Orc_Scream_01	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Orc_Scream_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Orc\Orc_Scream\SFX_Orc_Scream_01		449356
+	569199062	UI_navigation_left	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\UI_navigation_left_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\UI\UI_navigation_left		2293264
+	594557104	SFX_Orc_Scream_10	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Orc_Scream_10_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Orc\Orc_Scream\SFX_Orc_Scream_10		720112
+	626746985	SFX_animatic_starFalling	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\VOX_Howard_HAPPY_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animatic\SFX_animatic_starFalling		152980
+	647680215	SFX_icecube_waterSplash_01	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_icecube_waterSplash_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Icecube\Icecube_Splash\SFX_icecube_waterSplash_01		423404
+	653342313	UI_Confirm	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\UI_Confirm_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\UI\UI_Confirm		317584
+	656556936	SFX_WaterUp_Start	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_WaterUp_Start_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Water\Water_up\Water_up\SFX_WaterUp_Start		478592
+	680994462	SFX_Orc_Scream_11	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Orc_Scream_11_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Orc\Orc_Scream\SFX_Orc_Scream_11		876960
+	683507940	SFX_icecube_waterSplash_03	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_icecube_waterSplash_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Icecube\Icecube_Splash\SFX_icecube_waterSplash_03		661804
+	717458162	SFX_Wolf_waterSplash_02	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Wolf_waterSplash_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\Wolf_watersplash\SFX_Wolf_waterSplash_02		376944
+	741947502	SFX_Orc_Scream_09	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Orc_Scream_09_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Orc\Orc_Scream\SFX_Orc_Scream_09		631248
+	742745702	UI_StartGame	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\UI_StartGame_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\UI\UI_StartGame		1202812
+	773012373	SFX_Icecube_drag_Start	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Icecube_drag_Start_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Icecube\Icecube_Drag\Icecube_Drag\SFX_Icecube_drag_Start		213764
+	779985896	SFX_FS_snow_05	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_FS_snow_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\FS\FS_Snow\SFX_FS_snow_05		23900
+	780398522	SFX_FS_snow_03	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_FS_snow_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\FS\FS_Snow\SFX_FS_snow_03		22728
+	781963727	SFX_Wolf_Howl_04	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Wolf_Howl_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\Wolf_howl\SFX_Wolf_Howl_04		1543340
+	785837206	SFX_WaterDown_Loop	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_WaterDown_Loop_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Water\Water_down\Water_Down\SFX_WaterDown_Loop		705664
+	787018239	SFX_FS_snow_07	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_FS_snow_07_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\FS\FS_Snow\SFX_FS_snow_07		20880
+	805089218	UI_Back	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\UI_Back_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\UI\UI_Back		211744
+	805700279	SFX_animatic_door	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\OLD_SFX_animatic_door_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Animatic\SFX_animatic_door		3015568
+	808991957	SFX_FS_snow_06	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_FS_snow_06_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\FS\FS_Snow\SFX_FS_snow_06		22488
+	838581732	SFX_Icecube_drag_Loop	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Icecube_drag_Loop_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Icecube\Icecube_Drag\Icecube_Drag\SFX_Icecube_drag_Loop		705664
+	887356396	SFX_Orc_Scream_04	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Orc_Scream_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Orc\Orc_Scream\SFX_Orc_Scream_04		602948
+	897197282	SFX_Orc_Scream_05	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Orc_Scream_05_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Orc\Orc_Scream\SFX_Orc_Scream_05		470276
+	901390481	SFX_Orc_Scream_03	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Orc_Scream_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Orc\Orc_Scream\SFX_Orc_Scream_03		688796
+	904487434	SFX_WolfShake	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_WolfShake_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\SFX_WolfShake		351704
+	915944086	SFX_WaterUp_Loop	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_WaterUp_Loop_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Water\Water_up\Water_up\SFX_WaterUp_Loop		705664
+	919278252	SFX_icecube_waterSplash_02	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_icecube_waterSplash_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Icecube\Icecube_Splash\SFX_icecube_waterSplash_02		499988
+	980503553	SFX_col_star_03	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_col_star_03_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Col_Star\Col_star\SFX_col_star_03		1576248
+	988084933	SFX_col_star_01	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_col_star_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Col_Star\Col_star\SFX_col_star_01		1222420
+	993413606	SFX_FS_snow_02	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_FS_snow_02_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\FS\FS_Snow\SFX_FS_snow_02		18528
+	1008500878	SFX_Wolf_Howl_01	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_Wolf_Howl_01_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Wolf\Wolf_howl\SFX_Wolf_Howl_01		1039720
+	1040257785	SFX_WaterUp_End	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_WaterUp_End_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Water\Water_up\SFX_WaterUp_End		349948
+	1056083265	AMB_AstralTides_Wind	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AMB_AstralTides_Wind_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\AMB\AMB_AstralTides_Wind		5510740
+	1068442164	SFX_col_star_04	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\SFX_col_star_04_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\SFX\Col_Star\Col_star\SFX_col_star_04		1272096
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	12376345	AT_MUS Drone_03	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS Drone_03_9E69E797.wem	12376345.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Drone\AT_MUS Drone_03	
+	41196620	AT_MUS_FLUTE_06	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_FLUTE_06_9E69E797.wem	41196620.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\FLUTE\AT_MUS_FLUTE_06	
+	47708315	AT_MUS_PNO_20	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_20_9E69E797.wem	47708315.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_20	
+	49032451	AT_MUS_FLUTE_09	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_FLUTE_09_9E69E797.wem	49032451.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\FLUTE\AT_MUS_FLUTE_09	
+	88257690	AT_MUS_CELLO_07	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_CELLO_07_9E69E797.wem	88257690.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\Cello\AT_MUS_CELLO_07	
+	88288146	AT_MUS_PNO_09	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_09_9E69E797.wem	88288146.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_09	
+	101004235	AT_MUS_PNO_06	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_06_9E69E797.wem	101004235.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_06	
+	119162994	AT_MUS_FLUTE_05	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_FLUTE_05_9E69E797.wem	119162994.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\FLUTE\AT_MUS_FLUTE_05	
+	122902369	AT_MUS_PNO_17	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_17_9E69E797.wem	122902369.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_17	
+	132790363	AT_MUS_CELLO_11	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_CELLO_11_9E69E797.wem	132790363.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\Cello\AT_MUS_CELLO_11	
+	140677533	AT_MUS_FLUTE_04	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_FLUTE_04_9E69E797.wem	140677533.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\FLUTE\AT_MUS_FLUTE_04	
+	143535611	AT_MUS_PNO_21	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_21_9E69E797.wem	143535611.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_21	
+	161543320	AT_MUS_CELLO_09	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_CELLO_09_9E69E797.wem	161543320.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\Cello\AT_MUS_CELLO_09	
+	242788481	AT_MUS_PNO_04	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_04_9E69E797.wem	242788481.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_04	
+	299050794	AT_MUS_PNO_08	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_08_9E69E797.wem	299050794.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_08	
+	308810167	AT_MUS_PNO_14	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_14_9E69E797.wem	308810167.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_14	
+	313353611	AT_MUS_PNO_03	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_03_9E69E797.wem	313353611.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_03	
+	357209784	AT_MUS_CELLO_06	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_CELLO_06_9E69E797.wem	357209784.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\Cello\AT_MUS_CELLO_06	
+	390532734	AT_MUS_CELLO_01	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_CELLO_01_9E69E797.wem	390532734.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\Cello\AT_MUS_CELLO_01	
+	435667051	AT_MUS_PNO_05	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_05_9E69E797.wem	435667051.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_05	
+	439653746	AT_MUS_FLUTE_11	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_FLUTE_11_9E69E797.wem	439653746.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\FLUTE\AT_MUS_FLUTE_11	
+	458966049	AT_MUS_CELLO_10	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_CELLO_10_9E69E797.wem	458966049.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\Cello\AT_MUS_CELLO_10	
+	498547570	AT_MUS_CELLO_04	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_CELLO_04_9E69E797.wem	498547570.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\Cello\AT_MUS_CELLO_04	
+	523331052	AT_MUS Drone_01	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS Drone_01_9E69E797.wem	523331052.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Drone\AT_MUS Drone_01	
+	525937448	AT_MUS_PNO_13	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_13_9E69E797.wem	525937448.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_13	
+	531838552	AT_MUS_PNO_23	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_23_9E69E797.wem	531838552.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_23	
+	538201852	AT_MUS_FLUTE_12	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_FLUTE_12_9E69E797.wem	538201852.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\FLUTE\AT_MUS_FLUTE_12	
+	636512740	AT_MUS_PNO_15	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_15_9E69E797.wem	636512740.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_15	
+	683414439	AT_MUS_PNO_18	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_18_9E69E797.wem	683414439.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_18	
+	686023784	AT_MUS_PNO_12	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_12_9E69E797.wem	686023784.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_12	
+	690070821	AT_MUS_PNO_07	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_07_9E69E797.wem	690070821.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_07	
+	706869590	AT_MUS_FLUTE_08	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_FLUTE_08_9E69E797.wem	706869590.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\FLUTE\AT_MUS_FLUTE_08	
+	707747938	AT_MUS_FLUTE_03	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_FLUTE_03_9E69E797.wem	707747938.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\FLUTE\AT_MUS_FLUTE_03	
+	746941086	AT_MUS_FLUTE_07	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_FLUTE_07_9E69E797.wem	746941086.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\FLUTE\AT_MUS_FLUTE_07	
+	766983183	AT_MUS_FLUTE_01	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_FLUTE_01_9E69E797.wem	766983183.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\FLUTE\AT_MUS_FLUTE_01	
+	791048753	AT_MUS_PNO_11	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_11_9E69E797.wem	791048753.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_11	
+	840612955	AT_MUS_CELLO_05	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_CELLO_05_9E69E797.wem	840612955.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\Cello\AT_MUS_CELLO_05	
+	849571765	AT_MUS_PNO_02	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_02_9E69E797.wem	849571765.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_02	
+	869420226	AT_MUS_CELLO_12	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_CELLO_12_9E69E797.wem	869420226.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\Cello\AT_MUS_CELLO_12	
+	871702326	AT_MUS_PNO_01	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_01_9E69E797.wem	871702326.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_01	
+	926211739	AT_MUS_PNO_19	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_19_9E69E797.wem	926211739.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_19	
+	956138317	AT_MUS_PNO_10	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_10_9E69E797.wem	956138317.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_10	
+	958036988	AT_MUS_PNO_22	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_22_9E69E797.wem	958036988.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_22	
+	966836533	AT_MUS_CELLO_03	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_CELLO_03_9E69E797.wem	966836533.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\Cello\AT_MUS_CELLO_03	
+	988957026	AT_MUS_FLUTE_10	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_FLUTE_10_9E69E797.wem	988957026.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\FLUTE\AT_MUS_FLUTE_10	
+	1011846003	AT_MUS_FLUTE_02	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_FLUTE_02_9E69E797.wem	1011846003.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\FLUTE\AT_MUS_FLUTE_02	
+	1045601053	AT_MUS_CELLO_08	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_CELLO_08_9E69E797.wem	1045601053.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\Cello\AT_MUS_CELLO_08	
+	1056446368	AT_MUS_CELLO_02	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_CELLO_02_9E69E797.wem	1056446368.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\Melodies\Cello\AT_MUS_CELLO_02	
+	1067326600	AT_MUS_PNO_16	E:\___AAAA\AstralTides_Perforce\ProjectLuna\AstralTides_Wise\.cache\Windows\SFX\AT_MUS_PNO_16_9E69E797.wem	1067326600.wem	\Actor-Mixer Hierarchy\Default Work Unit\MUS\MUS AT\Main01\PNO\AT_MUS_PNO_16	
+
